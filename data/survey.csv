@@ -1,0 +1,9 @@
+question_id,option,count,respondents,multi_select
+preferred_swell_direction,S,9,30,true
+preferred_swell_direction,SW,26,30,true
+preferred_swell_direction,W,6,30,true
+preferred_swell_direction,NW,2,30,true
+preferred_swell_direction,N,1,30,true
+self_reported_level,beginner,4,30,false
+self_reported_level,intermediate,18,30,false
+self_reported_level,advanced,8,30,false

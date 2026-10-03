@@ -1,0 +1,4 @@
+n_markers,dt,broke,overturned_early,onset_x,jet_reach,lip_throw,tube_area,tube_area_norm
+800,0.01,True,False,19.5015,8.42854,2.79136,1.55335,0.388339
+1600,0.005,True,False,19.5185,8.42873,2.8884,1.68293,0.420731
+3200,0.0025,True,False,19.489,8.41439,2.83501,1.5974,0.399349

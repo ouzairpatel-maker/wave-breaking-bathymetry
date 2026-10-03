@@ -1,0 +1,5 @@
+# Normalise line endings so Windows and Linux checkouts produce identical files.
+* text=auto eol=lf
+*.png binary
+*.gif binary
+*.ipynb text eol=lf

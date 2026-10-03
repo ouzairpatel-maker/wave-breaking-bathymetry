@@ -1,0 +1,5 @@
+transect,swell,offshore_depth,reef_depth,reef_slope_deg,amplitude,window_low,window_high,valid,broke,overturned_early,onset_x,jet_reach,lip_throw,tube_area,tube_area_norm
+A,S,2.1,1.5,0.954841,1.1934,1.17,1.638,True,True,True,34.2109,0.496929,1.15652,0.152331,0.106958
+B,SW,2.6,2.5,5.23748,1.989,1.95,2.028,True,True,True,35.4705,2.05159,2.02218,0.494226,0.124927
+C,W,2.8,2.1,5.23748,1.67076,1.638,2.184,True,True,True,23.5522,4.34639,2.79564,1.29984,0.465654
+D,NW,2.4,1.9,0.477454,1.51164,1.482,1.872,True,True,True,19.4658,4.07996,2.43066,0.946147,0.414059

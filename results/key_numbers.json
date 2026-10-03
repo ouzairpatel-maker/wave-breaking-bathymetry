@@ -1,0 +1,65 @@
+{
+  "seed": 12345,
+  "quick": false,
+  "transects": {
+    "ranking_tube_area_norm": "C>D>B>A",
+    "ranking_jet_reach": "C>D>B>A",
+    "all_valid": true,
+    "all_overturned_early": true,
+    "common_amplitude_window_exists": false
+  },
+  "slope_sweep": {
+    "best_slope_deg": 7.0,
+    "best_tube_area_norm": 0.5641586202707329,
+    "numerical_band": 0.0402089409641698,
+    "slopes_overturned_early_deg": [
+      2.0,
+      3.0,
+      4.0,
+      5.0,
+      6.0
+    ]
+  },
+  "width_rankings": {
+    "2.0": "C>D>B>A",
+    "3.0": "C>D>B>A",
+    "4.0": "D>C>B>A",
+    "5.0": "C>D>B>A",
+    "6.0": "A>C>D>B"
+  },
+  "monte_carlo": {
+    "n_samples": 1000,
+    "n_valid": 873,
+    "invalid_share_per_transect": {
+      "A": 0.0,
+      "B": 0.127,
+      "C": 0.0,
+      "D": 0.0
+    },
+    "ranking_share": {
+      "C>D>B>A": 0.5544100801832761,
+      "D>C>B>A": 0.44558991981672397,
+      "A>B>C>D": 0.0,
+      "A>B>D>C": 0.0
+    },
+    "share_A_last": 1.0,
+    "slope_95_interval_deg": {
+      "A": [
+        0.5943901413662868,
+        1.3317741922449984
+      ],
+      "B": [
+        4.856629232588479,
+        5.612027755788742
+      ],
+      "C": [
+        4.868458288887082,
+        5.597075188196858
+      ],
+      "D": [
+        0.10747382328531496,
+        0.8388591279775823
+      ]
+    }
+  }
+}
